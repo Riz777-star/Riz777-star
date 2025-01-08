@@ -1,19 +1,22 @@
 <h1 align="center">Hi 👋, I'm Rizwan Syed</h1>
 <h3 align="center">Grad Student @ State University of New York at Buffalo </h3>
-A passionate Software Engineer with a robust foundation in full-stack development and machine learning. My journey in tech is marked by impactful projects and research, including:
+A passionate Software Engineer with a robust foundation in **full-stack development and machine learning**. My journey in tech is marked by impactful projects and research, including:
 
-Published research on Face Mask Detection.
-Top 15% academic achiever at Sathyabama University.
-Developed sophisticated supplier onboarding systems and efficient file searching algorithms at Vaya Group.
+->Published research on Face Mask Detection.
+->Top 15% academic achiever at Sathyabama University.
+->Developed sophisticated supplier onboarding systems and efficient file searching algorithms at Vaya Group.
 
 💡 Technical Expertise:
 
-Certified in Angular development (Credo Systems) and Java programming (Informatics).
-Contributed to energy-efficient Large Language Models research at the University at Buffalo, reducing CO2 emissions while maintaining performance.<br>
+->Certified in Angular development (Credo Systems) and Java programming (Informatics).
+->Contributed to energy-efficient Large Language Models research at the University at Buffalo, 
+  reducing CO2 emissions while maintaining performance.<br>
+<br>
 🌟 Leadership & Competitiveness:
 
-Former Dell Campus Ambassador and leader of innovative projects.
-Competitive spirit honed as a district-level badminton player in India, driving a results-oriented approach in my work.
+->Former Dell Campus Ambassador and leader of innovative projects.
+->Competitive spirit honed as a district-level badminton player in India, driving a results- 
+  oriented approach in my work.
 
 
 - 🌱 I’m Actively looking for  ** for Full-Time positions** to show my potiential

@@ -2,7 +2,7 @@
 <h3 align="center">Grad Student @ State University of New York at Buffalo </h3>
 🎓About Me<br>
 <br>
-A passionate Software Engineer with a robust foundation in full-stack development and machine learning. My journey in tech is marked by impactful projects and research, including:
+  A passionate Software Engineer with a robust foundation in full-stack development and machine learning. My journey in tech is marked by impactful projects and research, including:
 
 - Published research on Face Mask Detection.
 - Top 15% academic achiever at Sathyabama University.

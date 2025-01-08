@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rizwan Syed</h1>
 <h3 align="center">Grad Student @ State University of New York at Buffalo </h3>
+🎓About Me
 A passionate Software Engineer with a robust foundation in full-stack development and machine learning. My journey in tech is marked by impactful projects and research, including:
 
 - Published research on Face Mask Detection.

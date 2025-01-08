@@ -7,7 +7,7 @@
 - Published research on Face Mask Detection.
 - Top 15% academic achiever at Sathyabama University.
 - Developed sophisticated supplier onboarding systems and efficient file searching algorithms at Vaya Group.
-<br>
+
 💡 Technical Expertise:
 
 - Certified in Angular development (Credo Systems) and Java programming (Informatics).

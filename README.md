@@ -9,7 +9,7 @@ Developed sophisticated supplier onboarding systems and efficient file searching
 💡 Technical Expertise:
 
 Certified in Angular development (Credo Systems) and Java programming (Informatics).
-Contributed to energy-efficient Large Language Models research at the University at Buffalo, reducing CO2 emissions while maintaining performance.
+Contributed to energy-efficient Large Language Models research at the University at Buffalo, reducing CO2 emissions while maintaining performance.<br>
 🌟 Leadership & Competitiveness:
 
 Former Dell Campus Ambassador and leader of innovative projects.

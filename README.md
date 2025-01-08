@@ -14,8 +14,8 @@ A passionate Software Engineer with a robust foundation in **full-stack developm
 <br>
 🌟 Leadership & Competitiveness:
 
-->Former Dell Campus Ambassador and leader of innovative projects.
-->Competitive spirit honed as a district-level badminton player in India, driving a results- 
+- Former Dell Campus Ambassador and leader of innovative projects.
+- Competitive spirit honed as a district-level badminton player in India, driving a results- 
   oriented approach in my work.
 
 

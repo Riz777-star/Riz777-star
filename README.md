@@ -2,23 +2,23 @@
 <h3 align="center">Grad Student @ State University of New York at Buffalo </h3>
 🎓About Me<br>
 <br>
-  A passionate Software Engineer with a robust foundation in full-stack development and machine learning. My journey in tech is marked by impactful projects and research, including:
+  A passionate Software Engineer with a robust foundation in **full-stack development and machine learning**. My journey in tech is marked by impactful projects and research, including:
 
 - Published research on Face Mask Detection.
 - Top **15% academic achiever** at Sathyabama University.
-- Developed sophisticated supplier onboarding systems and efficient file searching algorithms at Vaya Group.
+- Developed sophisticated supplier **onboarding systems and efficient file searching algorithms at Vaya Group.**
 
 💡 Technical Expertise:
 
 - Certified in Angular development (Credo Systems) and Java programming (Informatics).
-- Contributed to energy-efficient Large Language Models research at the University at Buffalo, 
+- Contributed to energy-efficient **Large Language Models research at the University at Buffalo**, 
   reducing CO2 emissions while maintaining performance.<br>
 <br>
 
 🌟 Leadership & Competitiveness:
 
-- Former Dell Campus Ambassador and leader of innovative projects.
-- Competitive spirit honed as a district-level badminton player in India, driving a results- 
+- Former Dell Campus Ambassador and **leader of innovative projects**.
+- Competitive **spirit honed as a district-level badminton player in India**, driving a results- 
   oriented approach in my work.
 
 
@@ -27,7 +27,7 @@
 🔭 I'm always eager for new opportunities, striving for excellence and continuous learning in 
 this fast-paced tech world.
 
-💬 Ask me about **Swift, Neural Networks, Embedded C, SystemVerilog**
+💬 Ask me about **Angular.Js, Neural Networks, Embedded C, Operating Systems**
 
 📫 How to reach me **syedsrizwansr@gmail.com**
 

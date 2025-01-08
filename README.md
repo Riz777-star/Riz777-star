@@ -20,6 +20,7 @@ A passionate Software Engineer with a robust foundation in full-stack developmen
 
 
 🌱 I’m Actively looking for  ** for Full-Time positions** to show my potiential
+<br>
 🔭 I'm always eager for new opportunities, striving for excellence and continuous learning in 
 this fast-paced tech world.
 
